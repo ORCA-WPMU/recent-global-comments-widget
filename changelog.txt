@@ -1,0 +1,32 @@
+=== Recent Global Comments Widget ===
+Authors: Paul Menard (Incsub)
+
+== Changelog ==
+
+= 1.0.4.2 =
+* Added support for I18N language files
+* Added optional define 'RECENT_GLOBAL_COMMENTS_WIDGET_MAIN_BLOG_ONLY' which can be used to control limiting the widget for display on main site or available on all sites. 
+* Test for WordPress 3.6.1
+
+= 1.0.4.1 =
+* IMPORTANT security update
+* XSS prevention patches
+* Update WPMU DEV Update Notification
+
+= 1.0.4 =
+* Compatibility update for WordPress 3.1
+
+= 1.0.3 =
+* Fixed avatar display issue
+
+= 1.0.2 =
+* Fixed avatar link issue
+
+= 1.0.1 =
+* Fixed bug that was resulted in spam comments being displayed
+
+= 1.0.0 =
+* Initial Release
+
+
+403900-1511250573-ai
